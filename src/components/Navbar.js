@@ -5,11 +5,11 @@ import { Link } from "react-router-dom";
 const items = [
   {
     key: 1,
-    label: <a href="/">Homepage</a>,
+    label: <a href="#/">Homepage</a>,
   },
   {
     key: 2,
-    label: <a href="/profiles">Profiles Page</a>,
+    label: <a href="#/profiles">Profiles Page</a>,
   },
 ];
 

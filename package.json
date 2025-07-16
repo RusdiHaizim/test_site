@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://rusdihaizim.github.io/test_site",
+  "homepage": "https://rusdihaizim.github.io/test_site/#",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
